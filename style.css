@@ -1,0 +1,67 @@
+
+
+img{
+    width: 700px;
+    height: 700;
+}
+th{
+    color: rgb(254, 255, 255);
+     font-family: Arial, sans-serif;
+      
+}
+h3{
+    color: rgb(249, 251, 252);
+     font-family: Arial, sans-serif;
+}
+
+body{
+    background-color: rgb(4, 4, 49);
+}
+
+header{
+    background-color: rgb(3, 9, 87);
+}
+
+table{
+    background-color: rgb(5, 4, 63);
+}
+
+.header{
+    display: flex;
+    align-items: left;
+}
+
+th{
+    padding: 18px 26px;
+}
+td{
+    color: ghostwhite;
+     font-family: Arial, sans-serif;
+     padding: 15px 25px;
+}
+
+.p1{
+    width: 100px;
+}
+.t1{
+    color: ghostwhite;
+
+}
+.p2{
+    width: 100px;
+}
+.p3{
+  width: 100px;   
+}
+.p4{
+ width: 100px; 
+}
+.p5{
+width: 100px;
+}
+.p6{
+    width: 100px;
+}
+.p7{
+    width: 100px;
+}
